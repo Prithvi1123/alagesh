@@ -10,3 +10,4 @@ for num in range(P,b):
     if(count==2):
         print(num,end=' ')
     count=0
+    3`  23
